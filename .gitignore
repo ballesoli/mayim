@@ -1,2 +1,14 @@
+# Excluir tudo por padrao
+/*
+!/index.html
+!/styles.css
+!/script.js
+!/README.md
+
+# Pastas de trabalho local - nunca publicar
 skills/
+scripts/
+upload/
+download/
+.zcode/
 node_modules/
